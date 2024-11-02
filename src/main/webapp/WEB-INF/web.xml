@@ -6,6 +6,7 @@
 	<display-name>Web Application from Archetype for Servlet 3.1</display-name>
 	<welcome-file-list>
 		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>index.htm</welcome-file>
 		<welcome-file>index.html</welcome-file>
 	</welcome-file-list>
 </web-app>
